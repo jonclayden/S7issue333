@@ -1,0 +1,11 @@
+Package: S7issue333
+Version: 0.1
+Date: 2023-09-08
+Title: S7 Reprex
+Author: Jon Clayden
+Maintainer: Jon Clayden <code@clayden.org>
+Imports: S7
+Description: Example of issue 333 on the S7 package.
+Encoding: UTF-8
+License: GPL-2
+URL: https://github.com/jonclayden/S7issue333
